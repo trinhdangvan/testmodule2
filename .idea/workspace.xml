@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9414d50e-b3fb-4f04-8897-34d58ca3300f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Abstract Class_Interface/baitap_AbstractClass_Interface/Resizeable/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract Class_Interface/baitap_AbstractClass_Interface/Resizeable/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract Class_Interface/baitap_AbstractClass_Interface/Resizeable/Resizeable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract Class_Interface/baitap_AbstractClass_Interface/Resizeable/ResizeableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract Class_Interface/baitap_AbstractClass_Interface/Resizeable/ResizeableMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstract Class_Interface/baitap_AbstractClass_Interface/Resizeable/ResizeableRectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access_modifier/tao1doituongduynhatcualop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/SquareDance/dance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/caidattrucstack/stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/cautrucqueue/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/kiemtradaungoac/kiemtradaungoac.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/tree/tree.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/uutienkhambenh/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/uutienkhambenh/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Cricle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String_Regex/Validateaccount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String_Regex/Validateemail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String_Regex/Validatesodienthoai.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String_Regex/Validatetenlophoc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapcuaathao/bt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapcuaathao/taologin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/bt1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception /exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/b3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/bai1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/bai2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanly/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlyhocsinh1/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlyhocsinh1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlyhocsinh1/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlyhocsinh1/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlyhocsinh1/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlyhocsinh1/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlyhocsinh1/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlysinhvien/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlysinhvien/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/RowController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Row.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/rowModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../themkhachhang/controller/CustomerController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../themkhachhang/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../themkhachhang/model/Customer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../themkhachhang/model/CustomerDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../themkhachhang/model/DBConnection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../themkhachhang/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuattoan/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtimkiem/baitap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtimkiem/dienthoai.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtimkiem/gamedoanso.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtimkiem/thuchanhtimkiem.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lVOWNhNsr3AsPa8SENcbdVyvOU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9414d50e-b3fb-4f04-8897-34d58ca3300f" name="Default Changelist" comment="" />
+      <created>1607678822268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607678822268</updated>
+      <workItem from="1607678823586" duration="2056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
